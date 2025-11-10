@@ -1,2 +1,2 @@
 1.0.0.0
-link
+https://github.com/maniacosdatecnologia-cpu/MdtStart/releases/download/1.0.0.0/MdtStart.zip
